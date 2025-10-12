@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Personal Podcast</title>
+    <link>https://yourwebsite.com</link>
+    <language>en-us</language>
+    <description>My personal audio feed</description>
+    <itunes:author>Your Name</itunes:author>
+    <itunes:image href="https://yourwebsite.com/podcast-image.jpg"/>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>Episode 1 - My First Recording</title>
+      <description>Description of this episode</description>
+      <enclosure url="https://yourwebsite.com/audio/episode1.wav" length="12345678" type="audio/wav"/>
+      <guid>https://yourwebsite.com/audio/episode1.wav</guid>
+      <pubDate>Wed, 08 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Episode 2 -->
+    <item>
+      <title>Episode 2 - My Second Recording</title>
+      <description>Description of this episode</description>
+      <enclosure url="https://yourwebsite.com/audio/episode2.wav" length="23456789" type="audio/wav"/>
+      <guid>https://yourwebsite.com/audio/episode2.wav</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
