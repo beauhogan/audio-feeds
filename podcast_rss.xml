@@ -7,23 +7,6 @@
     <description>Curated Tiktoks and other videos of people speaking knowledgeably on a subject with brief vignettes.</description>
     <itunes:author>Beau Hogan @boheaugan</itunes:author>
 
-    <!-- Episode 2 -->
-    <item>
-      <title>Episode 2</title>
-      <description>These are a few creators from Tiktok sharing their knowledge, curated and rounded up for a distraction free listening experience.</description>
-      <enclosure url="https://ia801304.us.archive.org/19/items/talking-heads-of-tiktok-episode-2/talking%20heads%20of%20tiktok%20episode%202.mp3" length="93952410" type="audio/mpeg"/>
-      <guid>https://ia801304.us.archive.org/19/items/talking-heads-of-tiktok-episode-2/talking%20heads%20of%20tiktok%20episode%202.mp3</guid>
-      <pubDate>Sun, 12 Oct 2025 02:06:09 GMT</pubDate>
-    </item>
-    
-    <!-- Episode 1 -->
-    <item>
-      <title>Episode 1</title>
-      <description>These are a few creators from Tiktok sharing their knowledge, curated and rounded up for a distraction free listening experience.</description>
-      <enclosure url="https://ia601008.us.archive.org/22/items/talking-heads-of-tiktok-episode-1/talking%20heads%20of%20tiktok%20episode%201.mp3" length="87614387" type="audio/mpeg"/>
-      <guid>https://ia601008.us.archive.org/22/items/talking-heads-of-tiktok-episode-1/talking%20heads%20of%20tiktok%20episode%201.mp3</guid>
-      <pubDate>Wed, 11 Oct 2025 18:00:00 GMT</pubDate>
-    </item>
     
   </channel>
 </rss>
