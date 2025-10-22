@@ -8,17 +8,13 @@
     <itunes:author>@lastchopperout on instagram</itunes:author>
     <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
 
-        <!-- Episode 1 -->
+    <!-- Episode 1 -->
     <item>
-      <title>October 13th, 2025 | TikTok Talking Heads Anthology</title>
-      <description>Over an hour of short form presentations, ranging from 30 seconds to 10 minutes, curated and rounded up for a distraction free listening experience.
-
-
-
-Most are added based off the hook alone since I use this for myself to listen to later. Which means I don't necessarily condone everything said in this anthology.</description>
-      <enclosure url="https://ia601008.us.archive.org/33/items/last-chopper-out-selects-october-13th-2025/Last%20Chopper%20Out%20Selects%20-%20October%2013th%2C%202025.mp3" length="160117555" type="audio/mpeg"/>
-      <guid>https://ia601008.us.archive.org/33/items/last-chopper-out-selects-october-13th-2025/Last%20Chopper%20Out%20Selects%20-%20October%2013th%2C%202025.mp3</guid>
-      <pubDate>Tue, 14 Oct 2025 03:19:34 GMT</pubDate>
+      <title>Last Chopper Out filtered tiktoks - October 22nd</title>
+      <description>An anthology of tiktok creators making talking head videos with original opinions on various topics about culture, tech, lifestyle, etc. It's purpose is to have a ad free and slop free listening experience.</description>
+      <enclosure url="https://ia801009.us.archive.org/34/items/10.22_202510/10.22.wav" length="716387123" type="audio/mpeg"/>
+      <guid>https://ia801009.us.archive.org/34/items/10.22_202510/10.22.wav</guid>
+      <pubDate>Wed, 22 Oct 2025 17:54:06 GMT</pubDate>
       <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
     </item>
     
