@@ -7,6 +7,10 @@
     <description>Curated Tiktoks and other videos of people speaking knowledgeably on a subject with brief vignettes.</description>
     <itunes:author>@lastchopperout on instagram</itunes:author>
     <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
+    <itunes:owner>
+      <itunes:name>Beau Hogan</itunes:name>
+      <itunes:email>your.email@example.com</itunes:email>
+    </itunes:owner>
 
       <!-- Episode 1 -->
     <item>
