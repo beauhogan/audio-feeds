@@ -21,6 +21,16 @@
       <pubDate>Wed, 05 Nov 2025 01:33:46 GMT</pubDate>
       <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
     </item>
+
+        <!-- Episode 2 -->
+    <item>
+      <title>Capitalizing on community, 1870’s reply guys, Eevolution of the word “slop”</title>
+      <description>An anthology of Tiktok creators making talking head videos with original opinions on various topics about culture, tech, lifestyle, etc. Its purpose is to have a ad free and slop free listening experience. </description>
+      <enclosure url="https://ia802908.us.archive.org/29/items/11.19-lco/11.19%20LCO.mp3" length="195873997" type="audio/mpeg"/>
+      <guid>https://ia802908.us.archive.org/29/items/11.19-lco/11.19%20LCO.mp3</guid>
+      <pubDate>Wed, 19 Nov 2025 22:29:43 GMT</pubDate>
+      <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
+    </item>
     
   </channel>
 </rss>
