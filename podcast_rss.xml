@@ -31,6 +31,16 @@
       <pubDate>Wed, 19 Nov 2025 22:29:43 GMT</pubDate>
       <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
     </item>
+
+    <!-- Episode 3 -->
+    <item>
+      <title>The Geese megahype needs to end, the Anti-ChatGPT accent, Hypercontemporary over timeless literary fiction</title>
+      <description>An anthology of Tiktok thinkpieces with original opinions on culture, tech lifestyle, etc. Its purpose is to have an ad free and slop free listening experience. </description>
+      <enclosure url="https://dn721904.ca.archive.org/0/items/251202-ep-3/251202%20Ep%203.mp3" length="150156083" type="audio/mpeg"/>
+      <guid>https://dn721904.ca.archive.org/0/items/251202-ep-3/251202%20Ep%203.mp3</guid>
+      <pubDate>Wed, 03 Dec 2025 01:09:06 GMT</pubDate>
+      <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
+    </item>
     
   </channel>
 </rss>
