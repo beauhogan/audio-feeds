@@ -41,6 +41,16 @@
       <pubDate>Wed, 03 Dec 2025 01:09:06 GMT</pubDate>
       <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
     </item>
+
+        <!-- Episode 4 -->
+    <item>
+      <title>December 29th, 2025 | The 2020's are a new middle ages, Apple will start showing ads on your phone, A sliver of hope online</title>
+      <description>Some Katseye discourse in here as well</description>
+      <enclosure url="https://ia600105.us.archive.org/30/items/251220-episode-4/251220%20Episode%204.mp3" length="126563123" type="audio/mpeg"/>
+      <guid>https://ia600105.us.archive.org/30/items/251220-episode-4/251220%20Episode%204.mp3</guid>
+      <pubDate>Mon, 29 Dec 2025 23:22:59 GMT</pubDate>
+      <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
+    </item>
     
   </channel>
 </rss>
