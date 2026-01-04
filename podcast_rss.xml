@@ -51,6 +51,15 @@
       <pubDate>Mon, 29 Dec 2025 23:22:59 GMT</pubDate>
       <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
     </item>
-    
+
+        <!-- Episode 5 -->
+    <item>
+      <title>Private equity killed youth sports, Chinatown price paradox, Substack and the pseudo-intellectual.</title>
+      <description>Other topics: I Love LA, Jaron Lanier, for-profit Gen Z community events.</description>
+      <enclosure url="https://dn720909.ca.archive.org/0/items/1229-episode-5/1229%20episode%205.mp3" length="335544320" type="audio/mpeg"/>
+      <guid>https://dn720909.ca.archive.org/0/items/1229-episode-5/1229%20episode%205.mp3</guid>
+      <pubDate>Sun, 04 Jan 2026 19:52:08 GMT</pubDate>
+      <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
+    </item>
   </channel>
 </rss>
