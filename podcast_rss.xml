@@ -61,5 +61,16 @@
       <pubDate>Sun, 04 Jan 2026 19:52:08 GMT</pubDate>
       <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
     </item>
+    
+   <!-- Episode 6 -->
+    <item>
+      <title>Ivy Wolk is this generation's Lena Dunham, Frictionmaxxing, Prediction markets are on the rise because we’ve never been less equipped to have opinions</title>
+      <description>Curated talking heads from my Tiktok FYP from January to March 2026. Trimmed and mastered for a podcast listening experience. Disclaimer: I don't necessarily condone the opinions of the featured creators. </description>
+      <enclosure url="https://ia600404.us.archive.org/5/items/260322-episode-6/260322%20EPISODE%206.wav" length="6983516160" type="audio/mpeg"/>
+      <guid>https://ia600404.us.archive.org/5/items/260322-episode-6/260322%20EPISODE%206.wav</guid>
+      <pubDate>Mon, 23 Mar 2026 20:31:50 GMT</pubDate>
+      <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
+    </item>
+    
   </channel>
 </rss>
