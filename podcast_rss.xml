@@ -71,6 +71,16 @@
       <pubDate>Mon, 23 Mar 2026 20:31:50 GMT</pubDate>
       <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
     </item>
+
+<!-- Episode 7 -->
+    <item>
+      <title>All professional sports are drag, Gen Z is obsessed with morality, Branded eye patches are the final frontier of ad space for the beauty industry</title>
+      <description>Other topics: Bushwick transplant aura dismorphia, Redveil on meme culture undermining black art, why have coffee shops failed to be third places?</description>
+      <enclosure url="https://ia800104.us.archive.org/21/items/lco-ep-7/LCO%20EP%207.mp3" length="182871654" type="audio/mpeg"/>
+      <guid>https://ia800104.us.archive.org/21/items/lco-ep-7/LCO%20EP%207.mp3</guid>
+      <pubDate>Thu, 30 Apr 2026 18:37:34 GMT</pubDate>
+      <itunes:image href="https://ia600301.us.archive.org/26/items/chop_20251014/chop.jpg"/>
+    </item>
     
   </channel>
 </rss>
